@@ -13,4 +13,3 @@ wp-content/
 .DS_Store
 *.sublime-project
 *.sublime-workspace
-*.json
